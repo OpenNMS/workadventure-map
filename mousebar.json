@@ -48,6 +48,12 @@
          "id":51,
          "name":"exit-to-main-map",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
