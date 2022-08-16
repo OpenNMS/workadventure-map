@@ -249,7 +249,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -305,7 +305,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":52,
+ "nextlayerid":55,
  "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
