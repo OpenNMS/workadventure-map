@@ -316,6 +316,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room 1"
@@ -379,6 +384,11 @@
          "name":"meetingroom-4",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -508,6 +518,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room 12"
@@ -572,6 +587,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"room 16"
@@ -635,6 +655,11 @@
          "name":"meetingroom-16",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
