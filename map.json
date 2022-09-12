@@ -3013,6 +3013,22 @@
                  "width":130,
                  "x":2596,
                  "y":166
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":43,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":64.3541666666667,
+                 "y":979.911458333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3137,7 +3153,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":39,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
