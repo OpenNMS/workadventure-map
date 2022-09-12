@@ -3349,6 +3349,70 @@
                  "width":84.625,
                  "x":1608.35416666667,
                  "y":41.2447916666667
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":102,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"OpenNMS-101",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":784.354166666667,
+                 "y":37.2447916666667
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":103,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Exit-to Mouse-Bar",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":31.0208333333333,
+                 "y":874.578125
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":104,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Slient-Zone",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":707.020833333333,
+                 "y":647.911458333333
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":105,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Restrooms",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":1064.35416666667,
+                 "y":263.911458333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3473,7 +3537,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":102,
+ "nextobjectid":106,
  "orientation":"orthogonal",
  "properties":[
         {
