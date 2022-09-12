@@ -3333,6 +3333,23 @@
                  "width":84.625,
                  "x":2597.6875,
                  "y":714.578125
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":95,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#000000",
+                     "text":"OpenNMS Conference Room",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":1671.02083333333,
+                 "y":43.9114583333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3457,7 +3474,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":94,
+ "nextobjectid":96,
  "orientation":"orthogonal",
  "properties":[
         {
