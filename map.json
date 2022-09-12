@@ -3350,6 +3350,54 @@
                  "width":84.625,
                  "x":1671.02083333333,
                  "y":43.9114583333333
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":96,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"OpenNMS 101",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":801.6875,
+                 "y":34.578125
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":98,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Mouse Bar Entrance",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":29.6875,
+                 "y":874.578125
+                }, 
+                {
+                 "class":"",
+                 "height":18.84375,
+                 "id":99,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Silent Zone",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":705.6875,
+                 "y":646.578125
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3474,7 +3522,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":96,
+ "nextobjectid":100,
  "orientation":"orthogonal",
  "properties":[
         {
